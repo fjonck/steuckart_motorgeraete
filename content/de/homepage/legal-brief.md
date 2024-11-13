@@ -4,7 +4,7 @@ weight: 90
 header_menu_title: "Impressum"
 navigation_menu_title: "Impressum"
 header_menu: true
-detailed_page_path: /de/legal/
+detailed_page_path: /legal/
 detailed_page_homepage_content: true
 footer_menu_title: Impressum
 footer_menu: true
