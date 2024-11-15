@@ -6,3 +6,5 @@ detailed_page_path: /steuckart_motorgeraete/AGB/
 detailed_page_homepage_content: true
 weight: 91
 ---
+
+lalala
