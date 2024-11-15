@@ -1,4 +1,5 @@
 ---
+header_menu: false
 footer_menu_title: AGB
 footer_menu: true
 detailed_page_path: /steuckart_motorgeraete/AGB/
